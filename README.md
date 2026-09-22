@@ -6,10 +6,10 @@ Manual functional testing of the **ShoppersStack e-commerce web application**, e
 
 | Metric | Result |
 |---|---|
-| Test Cases Designed & Executed | **219** |
+| Test Cases Designed & Executed | **232** |
 | Requirement Coverage (RTM) | **13 / 13 Product Backlog items (100%)** |
 | Defects Logged | **20** (1 Blocker, 1 Critical, 12 Major, 1 Medium, 5 Minor) |
-| Test Types Covered | Functional, Negative, Boundary Value, Edge Case |
+| Test Types Covered | Smoke, Functional, Negative, Boundary Value, Edge Case |
 | Sprints | 4 |
 
 ## Scope
@@ -44,7 +44,7 @@ shoppersstack-manual-testing/
 
 ## Methodology
 
-Testing followed Agile Scrum: a Product Backlog of 13 user stories was broken into 4 sprints, each covering a related set of modules. For every module, test scenarios were derived from the requirement document, then broken into detailed test cases across four categories — functional, negative, boundary value, and edge case — before execution and defect logging.
+Testing followed Agile Scrum: a Product Backlog of 13 user stories was broken into 4 sprints, each covering a related set of modules. For every module, test scenarios were derived from the requirement document, then broken into detailed test cases across five categories — smoke, functional, negative, boundary value, and edge case — before execution and defect logging.
 
 | Sprint | Modules |
 |---|---|
