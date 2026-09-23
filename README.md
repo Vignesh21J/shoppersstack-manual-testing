@@ -35,7 +35,7 @@ Full details in `04-Defect-Report.xlsx`.
 ```
 shoppersstack-manual-testing/
 ├── 01-Test-Plan.docx                  # Scope, approach, entry/exit criteria, environment
-├── 02-Test-Scenarios-TestCases.xlsx   # 219 test cases with execution results & dashboard
+├── 02-Test-Scenarios-TestCases.xlsx   # 232 test cases with execution results & dashboard
 ├── 03-RTM.xlsx                        # Requirement Traceability Matrix (13/13 coverage)
 ├── 04-Defect-Report.xlsx              # All 20 defects, severity-classified
 ├── 05-Test-Execution-Summary.docx     # Final results report with findings & recommendations
